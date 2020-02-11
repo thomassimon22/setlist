@@ -2,68 +2,68 @@
 <?xml-stylesheet type="text/css" href = "style.css"?>
 <setlist>
 	<cover>
+    <title>Buddy Holly</title>
 		<artists>Weezer</artists>
-		<title>Buddy Holly</title>
     <genre>rock</genre>
     <release>1994</release>
 	</cover>
 	<cover>
-    <artists>The Rolling Stones</artists>
     <title>Miss You</title>
+    <artists>The Rolling Stones</artists>
     <genre>rock</genre>
     <release>1978</release>
 	</cover>
   <cover>
-    <artists>Bruce Springsteen</artists>
     <title>The Rising</title>
-    <genre>2002</genre>
+    <artists>Bruce Springsteen</artists>
+    <genre>rock</genre>
     <release>2002</release>
   </cover>
   <cover>
-    <artists>The Rolling Stones</artists>
     <title>Sympathy for the Devil</title>
+    <artists>The Rolling Stones</artists>
     <genre>rock</genre>
     <release>1968</release>
   </cover>
   <cover>
-    <artists>The Rolling Stones</artists>
     <title>Miss You</title>
+    <artists>The Rolling Stones</artists>
     <genre>rock</genre>
     <release>2002</release>
   </cover>
   <cover>
-    <artists>MGMT</artists>
     <title>Time to Pretend</title>
+    <artists>MGMT</artists>
     <genre>rock</genre>
     <release>2008</release>
   </cover>
   <cover>
-    <artists>Divid Bowie</artists>
     <title>Young Americans</title>
+    <artists>Divid Bowie</artists>
     <genre>rock</genre>
     <release>1975</release>
   </cover>
   <cover>
-    <artists>Jefferson Airplane</artists>
     <title>White Rabbit</title>
+    <artists>Jefferson Airplane</artists>
     <genre>rock</genre>
     <release>1967</release>
   </cover>
   <cover>
-    <artists>Guns N' Roses</artists>
     <title>Welcome to the Jungle</title>
+    <artists>Guns N' Roses</artists>
     <genre>rock</genre>
     <release>1987</release>
   </cover>
   <cover>
-    <artists>The Eagles</artists>
     <title>Hotel California</title>
+    <artists>The Eagles</artists>
     <genre>rock</genre>
     <release>1976</release>
   </cover>
   <cover>
-    <artists>Jimi Hendrix</artists>
     <title>All Along the Watchtower</title>
+    <artists>Jimi Hendrix</artists>
     <genre>folk</genre>
     <release>1968</release>
   </cover>
