@@ -1,13 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
-
+setlist{
+  background-color: #ffcccb;
+  text-align: center;
+}
 cover {
 	display:block;
 	margin-bottom: 15px;
 	padding-bottom: 10px;
-	border-bottom: .7px solid #333;
-	font-family:"Gill Sans", Helvetica, Arial, "sans-serif"}
-artists {display:block; font-size: 22px; }
-title {font-style: italic; font-size: 19px;}
-genre {font-style: italic; font-size: 19px;}
-release {font-style: italic; font-size: 19px;}
+  padding-left: 10px;
+	font-family:"Gill Sans", Helvetica, Arial, "sans-serif"
+}
+
+title {display:block; font-style: italic; font-size: 30px;}
+artists {display:block; font-size: 20px;}
+genre {display:block; font-style: italic; font-size: 20px;}
+release {display:block; font-style: italic; font-size: 20px;}
