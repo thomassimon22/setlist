@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style.css"?>
+<setlist>
+	<cover>
+		<artists>Weezer</artists>
+		<title>Buddy Holly</title>
+    <genre>rock</genre>
+    <release>1994</release>
+	</cover>
+	<cover>
+    <artists>The Rolling Stones</artists>
+    <title>Miss You</title>
+    <genre>rock</genre>
+    <release>1978</release>
+	</cover>
+  <cover>
+    <artists>Bruce Springsteen</artists>
+    <title>The Rising</title>
+    <genre>2002</genre>
+    <release>2002</release>
+  </cover>
+  <cover>
+    <artists>The Rolling Stones</artists>
+    <title>Sympathy for the Devil</title>
+    <genre>rock</genre>
+    <release>1968</release>
+  </cover>
+  <cover>
+    <artists>The Rolling Stones</artists>
+    <title>Miss You</title>
+    <genre>rock</genre>
+    <release>2002</release>
+  </cover>
+  <cover>
+    <artists>MGMT</artists>
+    <title>Time to Pretend</title>
+    <genre>rock</genre>
+    <release>2008</release>
+  </cover>
+  <cover>
+    <artists>Divid Bowie</artists>
+    <title>Young Americans</title>
+    <genre>rock</genre>
+    <release>1975</release>
+  </cover>
+  <cover>
+    <artists>Jefferson Airplane</artists>
+    <title>White Rabbit</title>
+    <genre>rock</genre>
+    <release>1967</release>
+  </cover>
+  <cover>
+    <artists>Guns N' Roses</artists>
+    <title>Welcome to the Jungle</title>
+    <genre>rock</genre>
+    <release>1987</release>
+  </cover>
+  <cover>
+    <artists>The Eagles</artists>
+    <title>Hotel California</title>
+    <genre>rock</genre>
+    <release>1976</release>
+  </cover>
+  <cover>
+    <artists>Jimi Hendrix</artists>
+    <title>All Along the Watchtower</title>
+    <genre>folk</genre>
+    <release>1968</release>
+  </cover>
+</setlist>
